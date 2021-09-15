@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @hoangcaotx
-
 <!---
 hoangcaotx/hoangcaotx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hello
+My sandbox to try new things.
